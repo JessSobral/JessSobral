@@ -6,12 +6,12 @@ Meu nome é `Jéssica Sobral`, tenho `17 anos` e sou de `SP/Brasil`. Iniciei meu
 </div>
 
 <div align="center">
-    <a href = "mailto:jessicasobral5672@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/jessica-sobral-636718229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:jessicasobral5672@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="www.linkedin.com/in/jessica-sobral-636718229" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 </div>
 
 <div align="center">
-    <div style="display: inline_block; align_items: center"><br>
+    <div style="display: inline_block; align_items: center"> <br>
         <img align="center" alt="Jess-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
         <img align="center" alt="Jess-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
         <img align="center" alt="Jess-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">

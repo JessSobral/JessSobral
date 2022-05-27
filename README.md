@@ -7,7 +7,7 @@ Meu nome é `Jéssica Sobral`, tenho `17 anos` e sou de `SP/Brasil`. Iniciei meu
 
 <div align="center">
     <a href = "mailto:jessicasobral5672@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="www.linkedin.com/in/jessica-sobral-636718229" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+    <a href="https://www.linkedin.com/in/jessica-sobral-636718229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 </div>
 
 <div align="center">
